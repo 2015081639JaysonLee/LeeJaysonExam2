@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "181539189711",
+    "firebase_url": "https://finals4itflee.firebaseio.com/",
+    "project_id": "finals4itflee",
+    "storage_bucket": "finals4itflee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181539189711:android:adc88a43e8789d2a",
+        "android_client_info": {
+          "package_name": "exam2.lee.jayson.com.finals_4itf_lee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181539189711-bq7c8cp5t2v8l7b9uos8pl6bqftl7fjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "exam2.lee.jayson.com.finals_4itf_lee",
+            "certificate_hash": "fbda950a049afdabd624f124282132ba78d8bcb7"
+          }
+        },
+        {
+          "client_id": "181539189711-p95sjhud79rmu5ibtbi0femtnvi495eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6U4rjjKYSRPoM_qfSCxh2rKtJ-A2VdUY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181539189711-p95sjhud79rmu5ibtbi0femtnvi495eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
